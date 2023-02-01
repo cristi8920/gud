@@ -1,0 +1,170 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: font;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1850px;
+	height: 1076px;
+	font-family: font;
+	overflow: hidden;
+	cursor: pointer;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: font;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#design {
+	position: absolute;
+	width: 1825px;
+	height: 1140.625px;
+	left: 13px;
+	top: -32px;
+	overflow: visible;
+}
+#Component_5__1 {
+	position: absolute;
+	width: 130px;
+	height: 40px;
+	left: 646px;
+	top: 39px;
+	overflow: visible;
+	transition: all 0.6s wind-up;
+	--web-animation: fadein 0.6s wind-up;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+}
+#CONTACT {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,249,249,0.42);
+}
+#Component_4__1 {
+	position: absolute;
+	width: 163px;
+	height: 40px;
+	left: 408px;
+	top: 39px;
+	overflow: visible;
+	transition: all 0.6s wind-up;
+	--web-animation: fadein 0.6s wind-up;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+}
+#DESPRE_NOI {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,0.42);
+}
+#Component_3__1 {
+	position: absolute;
+	width: 92px;
+	height: 40px;
+	left: 228px;
+	top: 39px;
+	overflow: visible;
+	transition: all 0.6s wind-up;
+	--web-animation: fadein 0.6s wind-up;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+}
+#ACASA {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,0.42);
+}
+#LOGO_transparent_-_Copy {
+	position: absolute;
+	width: 1239px;
+	height: 697px;
+	left: -179px;
+	top: 288px;
+	overflow: visible;
+}
+#ID1_doina {
+	position: absolute;
+	width: 628px;
+	height: 888px;
+	left: 815px;
+	top: 192px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.08;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 568px;
+	height: 62px;
+	left: 208px;
+	top: 79px;
+}
